@@ -1,4 +1,4 @@
 # IJC
-Projekt ku predmetu "Jazyk C"
+Projekty ku predmetu "Jazyk C"
 
 Viac info -> viz Zadanie.html
